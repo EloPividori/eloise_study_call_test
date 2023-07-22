@@ -45,10 +45,14 @@ class Traduction
   end
 
   def encode(string)
+    return "" if string.nil?
+
     string.upcase.split('').map{|c| @o[c]}.join(' ')
   end
 
   def decode(string)
+    return "" if string.nil?
+
     string.split(' ').map{|c| @o.key(c)}.join('')
   end
 end
