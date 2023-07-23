@@ -5,12 +5,12 @@
 ## Intention
 
 Ce test simule un scenario dans lequel la team Tech doit créer un nouveau
-service en production.  
-  
+service en production.
+
 Chaque niveau correspond à une nouvelle itération avec de nouvelles exigences
 soumises par le reste de la team au fur et à mesure qu'ils apprennent des
-contraintes du business.  
-  
+contraintes du business.
+
 Ce challenge a pour but d'évaluer les capacités suivantes :
 
 ### Niveau Technique
@@ -34,7 +34,7 @@ Ce challenge a pour but d'évaluer les capacités suivantes :
 ## Travail attendu
 
 - Créez votre propre repository, et copiez-y le contenu du test technique.
-  (ne **pas** le forker). Vous nous enverrez le lien de votre repository 
+  (ne **pas** le forker). Vous nous enverrez le lien de votre repository
   par email une fois le test terminé.
 - Résoudre les niveaux dans l'ordre en suivant le [SUJET.md](./SUJET.md)
 - **Commit souvent et de manière atomique** pour montrer l'évolution du code
@@ -45,5 +45,4 @@ Ce challenge a pour but d'évaluer les capacités suivantes :
   paradigme object en Ruby)
 - Les tests ne sont pas obligatoires (Montrez-nous ce que vous savez faire de
   mieux : TDD, unitaire, integration, etc.)
-- Le programme devra utiliser une version actuellement supportée de Ruby et de
-  Ruby-On-Rails
+- Le programme devra utiliser une version actuellement supportée de Ruby et de Ruby-On-Rails
