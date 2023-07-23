@@ -4,9 +4,7 @@ Bonne chance, si tu as la moindre question n'hésites pas à me contacter par ma
 
 
 # README
-
- Hello Julien,
-
+Hello Julien,
 I wanted to give you a bit of feedback regarding my approach to the test.
 
 ## models
